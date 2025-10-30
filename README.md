@@ -23,8 +23,7 @@ Figma · UX/UI Design · AI Workflow Automation · NLP Concepts · Product Strat
 | File | Description |
 |------|--------------|
 | `/docs/PRD_Clarity_AI.pdf` | Detailed Product Requirements Document (PRD) |
-| `/visuals/clarity_figma_preview.png` | Figma preview of the app interface |
-| `/visuals/app_interface_mockup.png` | (Optional) Additional interface screen |
+
 
 ---
 
