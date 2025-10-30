@@ -29,7 +29,7 @@ Figma · UX/UI Design · AI Workflow Automation · NLP Concepts · Product Strat
 ---
 
 ## Figma Prototype
-🔗 **Live Preview:** [Add your Figma share link here]  
+🔗 **Live Preview:** [[live preview](https://www.figma.com/make/U5UEMWnrS4piR6Nuujgizk/Clarity-App?node-id=0-1&p=f)]  
 Example: [https://www.figma.com/file/clarity-ai-app-preview](https://www.figma.com)
 
 ---
