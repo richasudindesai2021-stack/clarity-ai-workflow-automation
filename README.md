@@ -1,2 +1,45 @@
-# clarity-ai-workflow-automation
-AI productivity assistant prototype designed in Figma — uses NLP-driven summarization, intent recognition, and contextual prioritization to automate daily workflows and boost efficiency by 35%.
+# Clarity AI – Workflow Automation Assistant
+
+## Overview
+Led a 6-member team to design **Clarity**, an AI-powered productivity assistant built in Figma.  
+The app concept uses NLP techniques like **text summarization**, **intent recognition**, and **contextual prioritization** to streamline digital workflows — condensing notifications, generating adaptive to-do lists, and improving daily smartphone efficiency by **35%**.
+
+---
+
+## Features
+- 🧠 **Smart Summarization:** Condenses notifications from multiple platforms into short actionable insights.  
+- ⚙️ **Context-Aware To-Do Lists:** Adapts dynamically based on user habits and intent.  
+- 💬 **Intent Recognition Engine:** Identifies task priorities using NLP context signals.  
+- 📱 **Figma-Designed Interface:** Minimal, intuitive, and optimized for mobile productivity.  
+
+---
+
+## Tools & Skills
+Figma · UX/UI Design · AI Workflow Automation · NLP Concepts · Product Strategy
+
+---
+
+## Repository Contents
+| File | Description |
+|------|--------------|
+| `/docs/PRD_Clarity_AI.pdf` | Detailed Product Requirements Document (PRD) |
+| `/visuals/clarity_figma_preview.png` | Figma preview of the app interface |
+| `/visuals/app_interface_mockup.png` | (Optional) Additional interface screen |
+
+---
+
+## Figma Prototype
+🔗 **Live Preview:** [Add your Figma share link here]  
+Example: [https://www.figma.com/file/clarity-ai-app-preview](https://www.figma.com)
+
+---
+
+## Impact
+- Improved digital productivity by 35% in simulations and user testing.  
+- Demonstrated practical application of NLP in consumer UX design.  
+- Strengthened collaboration across design, AI, and strategy disciplines.
+
+---
+
+## License
+MIT License © 2025 Richa S. Desai
